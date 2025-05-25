@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/jp%20project/notebooks/mlruns/582217371767203243/86dd48db79cb43eea4611271e946c52e/artifacts
+end_time: 1748213426872
+entry_point_name: ''
+experiment_id: '582217371767203243'
+lifecycle_stage: active
+run_id: 86dd48db79cb43eea4611271e946c52e
+run_name: XGBoost
+run_uuid: 86dd48db79cb43eea4611271e946c52e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748213414206
+status: 3
+tags: []
+user_id: User
