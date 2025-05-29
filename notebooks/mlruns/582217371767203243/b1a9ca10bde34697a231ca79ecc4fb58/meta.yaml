@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/User/Desktop/jp%20project/notebooks/mlruns/582217371767203243/b1a9ca10bde34697a231ca79ecc4fb58/artifacts
+deleted_time: 1748533974280
+end_time: 1748520787619
+entry_point_name: ''
+experiment_id: '582217371767203243'
+lifecycle_stage: deleted
+run_id: b1a9ca10bde34697a231ca79ecc4fb58
+run_name: XGBoost
+run_uuid: b1a9ca10bde34697a231ca79ecc4fb58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748520776303
+status: 3
+tags: []
+user_id: User

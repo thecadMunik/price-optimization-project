@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1748534007612
+current_stage: None
+description: null
+last_updated_timestamp: 1748534007612
+name: LinearRegression
+run_id: 1be3cce2e28e46a48b6054953f24866e
+run_link: null
+source: file:///C:/Users/User/Desktop/jp%20project/notebooks/mlruns/582217371767203243/1be3cce2e28e46a48b6054953f24866e/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/User/Desktop/jp%20project/notebooks/mlruns/582217371767203243/1be3cce2e28e46a48b6054953f24866e/artifacts/model
+user_id: null
+version: 2

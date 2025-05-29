@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/User/Desktop/jp%20project/notebooks/mlruns/582217371767203243/fd21ea99359e4b2fb51c502d85342be9/artifacts
+deleted_time: 1748533974278
+end_time: 1748520836824
+entry_point_name: ''
+experiment_id: '582217371767203243'
+lifecycle_stage: deleted
+run_id: fd21ea99359e4b2fb51c502d85342be9
+run_name: Linear Regression_Tuned
+run_uuid: fd21ea99359e4b2fb51c502d85342be9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748520831989
+status: 3
+tags: []
+user_id: User

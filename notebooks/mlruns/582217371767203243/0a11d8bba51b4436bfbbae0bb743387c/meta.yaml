@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/User/Desktop/jp%20project/notebooks/mlruns/582217371767203243/0a11d8bba51b4436bfbbae0bb743387c/artifacts
+deleted_time: 1748533974294
+end_time: 1748520776284
+entry_point_name: ''
+experiment_id: '582217371767203243'
+lifecycle_stage: deleted
+run_id: 0a11d8bba51b4436bfbbae0bb743387c
+run_name: Extratrees
+run_uuid: 0a11d8bba51b4436bfbbae0bb743387c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748520724856
+status: 3
+tags: []
+user_id: User
